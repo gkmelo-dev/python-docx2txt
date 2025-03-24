@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: docx2txt-setuptools-hotfix
+Version: 0.8.1
+Summary: Fork of docx2txt with a hotfix applied. A pure python-based utility to extract text and images from docx files.
+Home-page: https://github.com/gkmelo-dev/python-docx2txt
+Download-URL: https://github.com/gkmelo-dev/python-docx2txt/archive/refs/tags/0.8.0-hotfix1.tar.gz
+Author: Gabriel Melo (forked from Ankush Shah)
+Author-email: gabrielmelo1992@gmail.com
+License: MIT
+Keywords: python,docx,text,images,extract,hotfix
+License-File: LICENSE.txt
+Dynamic: author
+Dynamic: author-email
+Dynamic: download-url
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license
+Dynamic: license-file
+Dynamic: summary

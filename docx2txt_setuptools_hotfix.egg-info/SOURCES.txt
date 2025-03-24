@@ -1,0 +1,12 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+bin/docx2txt
+docx2txt/__init__.py
+docx2txt/docx2txt.py
+docx2txt_setuptools_hotfix.egg-info/PKG-INFO
+docx2txt_setuptools_hotfix.egg-info/SOURCES.txt
+docx2txt_setuptools_hotfix.egg-info/dependency_links.txt
+docx2txt_setuptools_hotfix.egg-info/top_level.txt
